@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片一致性"
+  short_description: "锁定人物产品、准确文字、字体排版与元素布局，逐项检查改图和系列图片"
+  default_prompt: "使用 $image-consistency，保留参考图的主体、文字排版和元素布局，只修改我指定的内容。"
